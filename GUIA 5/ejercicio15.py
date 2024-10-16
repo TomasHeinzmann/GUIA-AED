@@ -24,4 +24,3 @@ def comercioArticulos():
 	print(f"El articulo con mayor porcentaje de aporte es: {articulos[mayIndex][0]}")
 	print(f"Con un porcentaje del {round(porcentMay, 2)}% del aporte total")
 
-comercioArticulos()
