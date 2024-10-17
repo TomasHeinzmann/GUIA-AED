@@ -19,5 +19,3 @@ def senado():
 		print(f"{ausen} senadores estaban ausentes")
 	else:
 		print("Todos los senadores estaban presentes")
-
-senado()
