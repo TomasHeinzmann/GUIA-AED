@@ -20,4 +20,3 @@ def validarCuenta():
 			i = 0
 		puntosSeguidos = False
 
-validarCuenta()
